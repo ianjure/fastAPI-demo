@@ -2,4 +2,3 @@ pandas
 fastapi
 pydantic
 uvicorn
-supabase
